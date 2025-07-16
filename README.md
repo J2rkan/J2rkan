@@ -5,7 +5,7 @@ Apasionado por el desarrollo web y la lógica de programación. Me enfoco en con
 ---
 
 ## 🛠️ Tecnologías que manejo
-HTML5 CSS3 JavaScript Python Git VS Code
+
 
 - **Frontend:** HTML5 • CSS3 • JavaScript  
 - **Backend / Lógica:** Python  
